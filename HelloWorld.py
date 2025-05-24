@@ -1,4 +1,4 @@
 # A hello world python script
 
-str = f"Hello World"
+constant str = f"Hello World"
 print(str)
